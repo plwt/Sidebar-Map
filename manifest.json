@@ -1,7 +1,7 @@
 {
 
   "manifest_version": 2,
-  "name": "Siderbar Map",
+  "name": "Sidebar Map",
   "version": "0.1",
   "applications": {
     "gecko": {
